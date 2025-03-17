@@ -1,1 +1,2 @@
 # Code-with-245
+Hope you enjoyed building the Car Race Game in Java as much as I enjoyed creating it for you!! We learned how to deal with collisions between different objects and re-rendering the object as they go out of view. You can try adding more functionalities like creating more obstacles in the way or to increase the difficulty of the game you can try increasing the speed of the car after each level.
